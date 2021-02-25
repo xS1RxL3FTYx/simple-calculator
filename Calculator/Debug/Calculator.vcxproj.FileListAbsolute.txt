@@ -1,0 +1,2 @@
+C:\Users\t_pal\source\repos\Calculator\Debug\Calculator.exe
+C:\Users\t_pal\source\repos\Calculator\Debug\Calculator.pdb
